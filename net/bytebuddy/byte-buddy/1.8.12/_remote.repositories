@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Oct 18 14:38:43 BRT 2018
+byte-buddy-1.8.12.jar>beam-archiva=
+byte-buddy-1.8.12.pom>beam-archiva=
